@@ -8,6 +8,6 @@ Acceptance date: 2023-May-13（Paper accepted, expected to be published in early
 venue: 'Academic Journal of Mathematical Sciences'
 ---
 **Paper ID: CSP-27309**<br>
-Author: **Xiaochuan Ai**
+**Author: Xiaochuan Ai**
 
 
