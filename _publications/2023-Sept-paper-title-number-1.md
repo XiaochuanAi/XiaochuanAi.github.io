@@ -1,12 +1,13 @@
 ---
-title: "Study on Composition Analysis and Species Identification of Glass Relics Based on the Multiple Linear Regression Model"
+
+title: "Application model of forest value based on carbon storage analysis"
 collection: publications
-#permalink: /publication/2023-Sept-paper-title-number-1.md
-Academic journal: Clausius Scientific Press
-#paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+permalink: /publication/2022-05-17-paper-title-number-1
+date: 2022-05-17
+venue: 'Academic Journal of Mathematical Sciences'
+#paperurl: 'https://francis-press.com/uploads/papers/kdA1h7f0IkEl19iSYt9sLCQoq1l0Sp0rHdHgHw2e.pdf'
 ---
-Author: **Xiaochuan Ai**<br>
-Paper ID: CSP-27309<br>
-Acceptance date: 2023-May-13（Paper accepted, expected to be published in early September）<br>
+
+Author: **Zixuan He**, Xiaoxu Li, Tianze Chen
 
 
