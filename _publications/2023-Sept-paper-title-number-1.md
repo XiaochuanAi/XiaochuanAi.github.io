@@ -7,7 +7,7 @@ Academic journal: Clausius Scientific Press
 Acceptance date: 2023-May-13（Paper accepted, expected to be published in early September）
 venue: 'Academic Journal of Mathematical Sciences'
 ---
-
-Author: **Zixuan He**, Xiaoxu Li, Tianze Chen
+**Paper ID: CSP-27309**<br>
+Author: **Xiaochuan Ai**
 
 
