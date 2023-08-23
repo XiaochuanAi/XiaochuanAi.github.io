@@ -8,5 +8,6 @@ venue: 'Clausius Scientific Press'
 ---
 **ISSN: 2371-8838 Vol.7 Num.4**<br>
 **Author: Xiaochuan Ai**
+/br
 [Download PDF here](https://www.clausiuspress.com/assets/default/article/2023/06/07/article_1686146546.pdf)  
 
